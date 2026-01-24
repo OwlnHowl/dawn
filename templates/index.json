@@ -9,19 +9,19 @@
  */
 {
   "sections": {
-    "image_banner_T7KaxF": {
+    "image_banner_WMPFEa": {
       "type": "image-banner",
       "blocks": {
-        "heading_a8cMVp": {
+        "heading_Vn8Fpq": {
           "type": "heading",
           "settings": {
-            "heading": "Midnight-made goods for tired humans.",
-            "heading_size": "h2"
+            "heading": "Image banner",
+            "heading_size": "h1"
           }
         }
       },
       "block_order": [
-        "heading_a8cMVp"
+        "heading_Vn8Fpq"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
@@ -98,7 +98,7 @@
     }
   },
   "order": [
-    "image_banner_T7KaxF",
+    "image_banner_WMPFEa",
     "rich_text",
     "featured_collection"
   ]
