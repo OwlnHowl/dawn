@@ -67,10 +67,59 @@
         "padding_top": 28,
         "padding_bottom": 36
       }
+    },
+    "image_banner_T7KaxF": {
+      "type": "image-banner",
+      "blocks": {
+        "heading_a8cMVp": {
+          "type": "heading",
+          "settings": {
+            "heading": "Midnight-made goods for tired humans.",
+            "heading_size": "h1"
+          }
+        },
+        "text_XgryR7": {
+          "type": "text",
+          "settings": {
+            "text": "Give customers details about the banner image(s) or content on the template.",
+            "text_style": "body"
+          }
+        },
+        "buttons_P9DN7f": {
+          "type": "buttons",
+          "settings": {
+            "button_label_1": "Button label",
+            "button_link_1": "",
+            "button_style_secondary_1": false,
+            "button_label_2": "Button label",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "heading_a8cMVp",
+        "text_XgryR7",
+        "buttons_P9DN7f"
+      ],
+      "name": "t:sections.image-banner.presets.name",
+      "settings": {
+        "image_overlay_opacity": 0,
+        "image_height": "medium",
+        "image_behavior": "none",
+        "desktop_content_position": "middle-center",
+        "desktop_content_alignment": "center",
+        "show_text_box": true,
+        "color_scheme": "",
+        "stack_images_on_mobile": true,
+        "mobile_content_alignment": "center",
+        "show_text_below": true
+      }
     }
   },
   "order": [
     "rich_text",
-    "featured_collection"
+    "featured_collection",
+    "image_banner_T7KaxF"
   ]
 }
