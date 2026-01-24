@@ -77,30 +77,10 @@
             "heading": "Midnight-made goods for tired humans.",
             "heading_size": "h2"
           }
-        },
-        "text_XgryR7": {
-          "type": "text",
-          "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "buttons_P9DN7f": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Button label",
-            "button_link_1": "",
-            "button_style_secondary_1": false,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
-          }
         }
       },
       "block_order": [
-        "heading_a8cMVp",
-        "text_XgryR7",
-        "buttons_P9DN7f"
+        "heading_a8cMVp"
       ],
       "name": "t:sections.image-banner.presets.name",
       "settings": {
@@ -118,8 +98,8 @@
     }
   },
   "order": [
+    "image_banner_T7KaxF",
     "rich_text",
-    "featured_collection",
-    "image_banner_T7KaxF"
+    "featured_collection"
   ]
 }
