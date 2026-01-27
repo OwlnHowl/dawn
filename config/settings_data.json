@@ -140,7 +140,18 @@
         "settings": {
           "background": "#1a2238",
           "background_gradient": "",
-          "text": "#1a2238",
+          "text": "#d4d7dd",
+          "button": "#e3b23c",
+          "button_label": "#1a2238",
+          "secondary_button_label": "#121212",
+          "shadow": "#121212"
+        }
+      },
+      "scheme-22dab53e-567d-45bd-a709-4d9ee477ed03": {
+        "settings": {
+          "background": "#1a2238",
+          "background_gradient": "",
+          "text": "#d4d7dd",
           "button": "#e3b23c",
           "button_label": "#f5f3ef",
           "secondary_button_label": "#121212",
